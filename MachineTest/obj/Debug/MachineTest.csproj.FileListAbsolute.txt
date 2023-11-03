@@ -1,0 +1,7 @@
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\bin\Debug\MachineTest.exe.config
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\bin\Debug\MachineTest.exe
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\bin\Debug\MachineTest.pdb
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\obj\Debug\MachineTest.csproj.AssemblyReference.cache
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\obj\Debug\MachineTest.csproj.CoreCompileInputs.cache
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\obj\Debug\MachineTest.exe
+C:\Users\91963\source\repos\ConsoleStarting\MachineTest\obj\Debug\MachineTest.pdb
